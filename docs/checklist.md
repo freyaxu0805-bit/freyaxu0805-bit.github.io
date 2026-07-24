@@ -27,7 +27,7 @@
   - 证据：网站 Projects 区域显示三个项目卡片，内容与简历一致
 - [x] **技能信息替换**：_config.yml 中"A Little More About Me"已替换为技能清单
   - 证据：网站 Skills 区域显示 Python、Excel、Stata 等技能信息
-- [x] **社交链接清理**：只保留 GitHub + LinkedIn + email，其余（Twitter、Dribbble 等）已删除或置空
+- [x] **社交链接清理**：只保留 GitHub，其余已清空置空
   - 证据：网站 Footer 区域只显示保留的社交图标
 
 - [x] **头像替换**：images/ 下已有插画风格头像，_config.yml 中 about_profile_image 指向正确路径
@@ -35,18 +35,18 @@
 
 ## Phase 3 — 前端展示验证
 
-- [ ] **桌面端首页完整**：在 1920x1080 分辨率下，所有板块内容完整显示，无重叠、无截断
+- [x] **桌面端首页完整**：在 1920x1080 分辨率下，所有板块内容完整显示，无重叠、无截断
   - 证据：截图保存为 screenshots/homepage-desktop.png
-- [ ] **移动端可读**：在 375x667 视口下，文字可读、卡片自适应、社交图标排列正常
+- [x] **移动端可读**：在 375x667 视口下，文字可读、卡片自适应、社交图标排列正常
   - 证据：截图保存为 screenshots/homepage-mobile.png
-- [ ] **链接可用**：所有链接（GitHub、项目链接、email）点击后跳转至正确页面，无 404
+- [x] **链接可用**：所有链接（GitHub、项目链接、email）点击后跳转至正确页面，无 404
   - 证据：逐个点击确认
-- [ ] **头像与配图无裂图**：所有图片资源路径正确，浏览器控制台无 404 资源错误
+- [x] **头像与配图无裂图**：所有图片资源路径正确，浏览器控制台无 404 资源错误
   - 证据：打开浏览器开发者工具 Console，确认无 Failed to load resource 错误
 
 ## Phase 4 — Git 与 GitHub Pages
 
-- [ ] **Git 提交记录**：不少于 4 次提交，提交信息规范（如 docs: / content: / style:）
+- [x] **Git 提交记录**：不少于 4 次提交，提交信息规范（如 docs: / content: / style:）
   - 证据：在 GitHub 仓库页面查看 Commit History，截图保存
 - [x] **GitHub Pages 已部署**：仓库 Settings > Pages 已启用，分支选择正确
   - 证据：访问 https://freyaxu0805-bit.github.io 确认页面正常加载
@@ -60,7 +60,7 @@
 
 - [x] **最终报告完成**：report/final-report.md 覆盖项目定位、模板选择、AI 协作过程、验证结果、Pages 链接、反思
   - 证据：打开 report/final-report.md 确认所有章节均填写完整
-- [ ] **作业截图齐全**：screenshots/ 下包含 homepage-desktop.png / homepage-mobile.png / github-pages.png / checklist.png
+- [x] **作业截图齐全**：screenshots/ 下包含 homepage-desktop.png / homepage-mobile.png / github-pages.png / checklist.png
   - 证据：确认四个截图文件存在且非空
 - [ ] **TA-Claw 提交成功**：vibe-submit submit 返回 Submitted successfully
   - 证据：终端输出截图
@@ -70,6 +70,6 @@
 ## 完成统计
 
 - 总检查项：22 项
-- 已完成：17 项
-- 剩余：5 项
-- 进度：77%
+- 已完成：21 项
+- 剩余：1 项
+- 进度：95%
