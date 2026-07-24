@@ -1,4 +1,4 @@
-﻿# Site
+# Site
 repository: freyaxu0805-bit/freyaxu0805-bit.github.io
 favicon: images/favicon.ico
 
@@ -7,8 +7,9 @@ version: 2
 
 # Personal info
 name: Freya Xu
-title: 绠＄悊绉戝涓庡伐绋嬬澹?| 浜掕仈缃戝晢涓氬寲 | AI 宸ュ叿搴旂敤
-email: 璇峰～鍏ラ偖绠?# email_title: Email (Email title override)
+title: 管理科学与工程硕士 | 互联网商业化 | AI 工具应用
+email:
+# email_title: Email (Email title override)
 phone:
 # phone_title: Phone (Phone title override)
 website: https://freyaxu0805-bit.github.io
@@ -25,7 +26,8 @@ dribbble_username:
 facebook_username:
 flickr_username:
 instagram_username:
-linkedin_username: 璇峰～鍏?LinkedIn 鐢ㄦ埛鍚?xing_username:
+linkedin_username:
+xing_username:
 pinterest_username:
 youtube_username:
 orcid_username:
@@ -35,7 +37,6 @@ googlescholar_username:
 additional_links: []
 
 # Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
 # gtag: "UA-00000000-0"
 # google_analytics: "UA-00000000-0"
@@ -43,16 +44,17 @@ additional_links: []
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/avatar.svg
-about_content: | # this will include new lines to allow paragraphs
+about_content: |
   # About Me
 
   互联网商业化与金融背景的复合型硕士生，具备行业研究、数据分析、商业运营及项目执行能力，能通过数据洞察与市场研究驱动业务决策。
 
-  **新浪微博 · 效果广告部实习生** — 搭建游戏行业市场动态监测机制，独立输出行业季度报告，辅助销售团队识别商业合作机会。
+  **新浪微博 . 效果广告部实习生** — 搭建游戏行业市场动态监测机制，独立输出行业季度报告，辅助销售团队识别商业合作机会。
 
-  **浦发银行 · 公司金融部实习生** — 参与对公风控与客户数据治理，完成 1000+ 份核心客户资产信息维护。
+  **浦发银行 . 公司金融部实习生** — 参与对公风控与客户数据治理，完成 1000+ 份核心客户资产信息维护。
 
   **关注方向**：持续探索 AI 工具在数据分析与商业场景中的落地应用，在量化项目中使用大模型 API 进行金融文本挖掘。
+
 content:
   - title: Experience
     layout: list
