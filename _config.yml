@@ -58,7 +58,6 @@ about_content: |
   **关注方向**：持续探索 AI 工具在数据分析与商业场景中的落地应用，在量化项目中使用大模型 API 进行金融文本挖掘。
 
 content:
-  - title: Experience
   - title: 实习经历
     layout: list
     content:
@@ -82,7 +81,6 @@ content:
           运用 Excel 对部门对公客户数据进行全量清洗与结构化处理，完成 1000+ 份核心客户基础资产信息维护与资产标签优化。
 
           基于目标客群画像与商家资源深度匹配，输出整合宣传方案并全盘获批落地执行，促成活动名额在短时间内迅速报满。
-  - title: Education
   - title: 教育背景
     layout: list
     content:
@@ -94,7 +92,6 @@ content:
           荣誉：校三好学生、特等学业奖学金、文体竞赛奖学金、第九届东方财富杯北京市三等奖
 
           核心课程：数据挖掘与量化投资、高阶运筹学、统计学、金融计量、公司金融、投资学、经济学、Python
-  - title: Projects
   - title: 项目经历
     layout: list
     content:
