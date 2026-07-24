@@ -43,6 +43,8 @@ additional_links: []
 
 # About Section
 # about_title: About Me (Use this to override about section title)
+# about_title: About Me (Use this to override about section title)
+about_title: 关于我
 about_profile_image: images/avatar.svg
 about_content: |
   # About Me
@@ -57,6 +59,7 @@ about_content: |
 
 content:
   - title: Experience
+  - title: 实习经历
     layout: list
     content:
       - layout: right
@@ -80,6 +83,7 @@ content:
 
           基于目标客群画像与商家资源深度匹配，输出整合宣传方案并全盘获批落地执行，促成活动名额在短时间内迅速报满。
   - title: Education
+  - title: 教育背景
     layout: list
     content:
       - layout: top-right
@@ -91,6 +95,7 @@ content:
 
           核心课程：数据挖掘与量化投资、高阶运筹学、统计学、金融计量、公司金融、投资学、经济学、Python
   - title: Projects
+  - title: 项目经历
     layout: list
     content:
       - layout: left
